@@ -1,0 +1,66 @@
+{
+	"basicdetails":{
+		"image":"baby.jpg",
+		"name":"G.Bala Chaitanya Sai Lakshmi",
+		"email":"balachaitanya06081998@gmail.com",
+		"phone":"9908061600",
+		"address":"4-5,kammavaripalem,chilakaluripet,guntur"
+	},
+	"education":[
+		{
+			"course":"B.tech(C.S.E)",
+			"college":"vignan's nirula",
+			"percentage":"77%"
+		},
+	    {
+	    	"course":"intermediate(M.P.C)",
+			"college":"AC college",
+			"percentage":"93%"
+	    },
+	    {
+	    	"course":"ssc",
+			"college":"St.Mary's EM School",
+			"percentage":"92%"
+	    }
+	],
+	"skills":[
+		{
+			"name":"operating systems",
+			"value":"Linux,Windows,MAC"
+		},
+		{
+			"name":"Programming Languages",
+			"value":"C,C++,Java,Python,.net"
+		}
+
+	],
+	"carrier":{
+		"ca":"I am using my knowledge,skills towards the development of our organization "
+	},
+	"Achievements":[
+		"I got first prise in Essay writing.",
+		"I got first prise in group discussion."
+
+	],
+	"Description":{
+		"des":"here there by i want to mention that all the above mentioned data are total self details"
+	}
+
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
